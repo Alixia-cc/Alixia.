@@ -1,9 +1,9 @@
 # 🌐 Alixia
 
-Bienvenue sur l’organisation **Alixia-ch** !
+Bienvenue sur l’organisation **Alixia.** !
 
 ## 🚀 Qui sommes-nous ?
-Alixia est une jeune initiative suisse qui développe une solution SaaS innovante pour simplifier la vie des créateurs, solopreneurs et entreprises.  
+Alixia. est une jeune initiative qui développe une solution SaaS innovante pour simplifier la vie des créateurs, solopreneurs et entreprises.  
 Notre objectif est clair : **automatiser la présence en ligne** pour que chacun puisse se concentrer sur son activité principale sans perdre de temps avec la gestion fastidieuse des réseaux sociaux.
 
 ## ✨ Notre mission
@@ -22,7 +22,7 @@ Notre objectif est clair : **automatiser la présence en ligne** pour que chacun
 Alixia est en constante évolution. Nous croyons en la force de la communauté et en l’intelligence collective.  
 Vous pouvez nous aider en testant, en partageant vos retours et en suivant nos projets.
 
-📢 Essayez dès maintenant : [alixia.ch](https://alixia.ch)  
+📢 Essayez dès maintenant : [alixia.cc](https://alixia.cc)  
 ⭐ Suivez l’aventure et participez à la construction d’Alixia !
 
 ---
